@@ -54,6 +54,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: chrome-extension
-          path: .output/add-qrcode-generator-icon-back-to-address-bar-${{ steps.version.outputs.version }}.zip
+          path: .output/next-qrcode-generator-${{ steps.version.outputs.version }}.zip
           retention-days: 1
           if-no-files-found: error
