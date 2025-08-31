@@ -11,6 +11,11 @@ updates:
     versioning-strategy: increase
     labels:
       - dependencies
+    reviewers:
+      - "liuliangsir"
+      - "copilot"
+    assignees:
+      - "liuliangsir"
     commit-message:
       prefix: "chore"
       include: scope
