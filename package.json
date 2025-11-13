@@ -33,7 +33,7 @@
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "@wxt-dev/module-react": "^1.1.5",
-    "autoprefixer": "^10.4.21",
+    "autoprefixer": "^10.4.22",
     "conventional-changelog-cli": "^5.0.0",
     "dotenv": "^17.2.3",
     "postcss": "^8.5.6",
