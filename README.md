@@ -70,7 +70,7 @@ You can install the extension directly from the [Firefox Add-ons Store](https://
 ### Prerequisites
 
 - Node.js ≥ 24.3.0
-- pnpm ≥ 10.21.0
+- pnpm ≥ 10.22.0
 
 ### Development Commands
 
