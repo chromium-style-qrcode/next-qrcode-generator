@@ -30,7 +30,7 @@
     "@tailwindcss/postcss": "^4.1.17",
     "@thedutchcoder/postcss-rem-to-px": "^0.0.2",
     "@types/node": "^24.10.1",
-    "@types/react": "^19.2.6",
+    "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "@wxt-dev/module-react": "^1.1.5",
     "autoprefixer": "^10.4.22",
