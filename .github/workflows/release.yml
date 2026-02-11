@@ -10,7 +10,7 @@ permissions:
 
 env:
   NODE_VERSION: "24.3.0"
-  PNPM_VERSION: "10.29.1"
+  PNPM_VERSION: "10.29.3"
 
 jobs:
   build-and-release:
