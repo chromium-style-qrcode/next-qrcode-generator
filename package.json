@@ -29,8 +29,8 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
     "@thedutchcoder/postcss-rem-to-px": "^0.0.2",
-    "@types/node": "^25.2.2",
-    "@types/react": "^19.2.13",
+    "@types/node": "^25.2.3",
+    "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@wxt-dev/module-react": "^1.1.5",
     "autoprefixer": "^10.4.24",
@@ -41,7 +41,7 @@
     "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3",
-    "wxt": "^0.20.14"
+    "wxt": "^0.20.15"
   },
   "engines": {
     "pnpm": ">=10.29.3",
