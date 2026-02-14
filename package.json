@@ -35,7 +35,7 @@
     "@wxt-dev/module-react": "^1.1.5",
     "autoprefixer": "^10.4.24",
     "conventional-changelog-cli": "^5.0.0",
-    "dotenv": "^17.2.4",
+    "dotenv": "^17.3.1",
     "postcss": "^8.5.6",
     "prettier": "^3.8.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
