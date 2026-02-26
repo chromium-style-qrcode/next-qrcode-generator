@@ -44,14 +44,14 @@
     "wxt": "^0.20.18"
   },
   "engines": {
-    "pnpm": ">=10.30.2",
+    "pnpm": ">=10.30.3",
     "node": ">=22.18.0"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/chromium-style-qrcode/next-qrcode-generator.git"
   },
-  "packageManager": "pnpm@10.30.2",
+  "packageManager": "pnpm@10.30.3",
   "author": "liuliang@w3ctech.com",
   "license": "MIT"
 }
