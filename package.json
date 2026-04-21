@@ -41,7 +41,7 @@
     "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwindcss": "^4.2.2",
     "typescript": "^6.0.3",
-    "wxt": "^0.20.24"
+    "wxt": "^0.20.25"
   },
   "engines": {
     "pnpm": ">=10.33.0",
