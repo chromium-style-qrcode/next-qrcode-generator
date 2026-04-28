@@ -38,7 +38,7 @@
     "dotenv": "^17.4.2",
     "postcss": "^8.5.12",
     "prettier": "^3.8.3",
-    "prettier-plugin-tailwindcss": "^0.7.3",
+    "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwindcss": "^4.2.4",
     "typescript": "^6.0.3",
     "wxt": "^0.20.25"
