@@ -29,7 +29,7 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.1",
     "@thedutchcoder/postcss-rem-to-px": "^0.0.2",
-    "@types/node": "^26.0.0",
+    "@types/node": "^26.0.1",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
     "@wxt-dev/module-react": "^1.2.2",
